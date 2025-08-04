@@ -3,25 +3,13 @@
 Student at Carleton College studying Statistics. Currently working on ML for bioacoustics and fisheries research at UCSD E4E. ([LinkedIn](linkedin.com/in/asjajodia))
 
 ## Academic Interests
-- Bayesian statistics
-- Graph learning
-- Natural language processing
-- Information Theory
-- Causal inference
-- Quantitative social science
-- Polling
+Bayesian statistics, Graph learning, Natural language processing, Information Theory, Causal inference, Quantitative social science, Polling, English
 
 ## Tools
-- R (favorite) => Shiny, Tidyverse
-- Python (does everything I need it to) => PyTorch, Numpy
-- Julia (?) for mathematical computing
-- LaTeX <3
-- SQL
+R (favorite), Python (does everything I need it to), Julia (?), LaTeX <3, SQL
 
 ## Personal Interests
-- Guitar
-- Surfing (new)
-- Being outside
+Guitar, Surfing (new), Being outside
 <!--
 **AJajodia/ajajodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
