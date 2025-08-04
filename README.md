@@ -1,4 +1,6 @@
-# Anu Jajodia ([LinkedIn](linkedin.com/in/asjajodia))
+# Anu Jajodia 
+
+## ([LinkedIn](linkedin.com/in/asjajodia))
 
 Student at Carleton College studying Statistics. Currently working on ML for bioacoustics and fisheries research at UCSD E4E.
 
