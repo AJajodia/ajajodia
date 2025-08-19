@@ -11,7 +11,7 @@ R (favorite), Python (does everything I need it to), Julia (?), LaTeX <3, SQL
 ## Personal Interests
 Guitar, Surfing (new), Being outside
 
-[LinkedIn](linkedin.com/in/asjajodia)
+[Website](ajajodia.github.io)[LinkedIn](linkedin.com/in/asjajodia)
 <!--
 **AJajodia/ajajodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
