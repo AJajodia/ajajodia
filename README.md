@@ -1,6 +1,6 @@
 # Anu Jajodia 
 
-Incoming PhD student at the University of Virginia School of Data Science. Currently working on fruit fly behavior, but I'd like to start thinking about people.
+PhD student at the University of Virginia School of Data Science. Currently working on fruit fly behavior, but I'd like to start thinking about people.
 
 ## Academic Interests
 Bayesian statistics, Graph learning, Natural language processing, Information Theory, Causal inference, Quantitative social science, Polling, English
